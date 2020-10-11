@@ -1,2 +1,4 @@
 # ignore the following directori
 /data/
+.DS_Store
+package.json
